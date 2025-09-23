@@ -198,7 +198,8 @@ export const Appbar = () => {
               </div>
             </Scrollspy>
             <a
-              href="#"
+              href="/media/resume/Mohammad-Nazim-Hossain.pdf"
+              download='Mohammad-Nazim-Hossain.pdf'
               target="_blank"
               rel="noopener noreferrer"
               className={style.mobile_navigation_btn + " fw-bold"}
