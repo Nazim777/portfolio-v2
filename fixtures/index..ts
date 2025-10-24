@@ -52,7 +52,7 @@ export const myProjects = [
     {
       title: "A Microservice E-commerce Backend",
       description:
-        "Microservices Architecture, RESTful API Design, Scalability & Performance Optimization 1. Api Gateway with Rate Limiting Using Nginx 2. Message Broker with RabbitMQ 3. Logging with ELK Stack (Elasticsearch, Logstash, Kibana) 4. Monitoring with Promatheus and Grafana 5. Containerization with Docker  6. CI/CD Pipeline with GitHub Actions",
+        "Microservices Architecture, RESTful API Design, Scalability & Performance Optimization 1. Api Gateway with Rate Limiting Using Nginx 2. Message Broker with RabbitMQ 3. Logging with ELK Stack (Elasticsearch, Logstash, Kibana) 4. Monitoring with Promatheus and Grafana 5. Containerization with Docker 6. CI/CD Pipeline with GitHub Actions",
       img: "/media/images/ecom.jpg",
       tags: ["Node.js", "Express.js","Nginx", "MongoDB", "RabbitMQ", "Docker","Elasticsearch","Kibana","Logstash","Prometheus","Grafana"],
       cta: "Visit site",
