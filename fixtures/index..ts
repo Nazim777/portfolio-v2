@@ -34,9 +34,29 @@ export const myProjects = [
       description:
         " Video Calls, Messaging, Screen Sharing, Screen Recording, Authentication & Authorization, User Roles (Interviewer, Candidate), Interview Scheduling, Feedback & Ratings",
       img: "/media/images/hireiq.png",
-      tags: ["INext.js & TypeScript, Stream, Convex, Clerk, Tailwind CSS"],
+      tags: ["Next.js & TypeScript, Stream, Convex, Clerk, Tailwind CSS"],
       cta: "Visit site",
       url: "https://hire-iq-eight.vercel.app/",
+      left: false,
+    },
+    {
+      title: "TribeLine: A Social Networking Platform",
+      description:
+        "User Profiles, Friend Connections, Post Creation & Interaction (Like, Comment), Notifications, Media Uploads (Images)",
+      img: "/media/images/tribeline.png",
+      tags: ["Next.js & TypeScript, Neon Postgresql, Clerk, Tailwind CSS"],
+      cta: "Visit site",
+      url: "https://tribe-line.vercel.app/",
+      left: false,
+    },  
+    {
+      title: "A Microservice E-commerce Backend",
+      description:
+        "Microservices Architecture, RESTful API Design, Scalability & Performance Optimization 1. Api Gateway with Rate Limiting Using Nginx 2. Message Broker with RabbitMQ 3. Logging with ELK Stack (Elasticsearch, Logstash, Kibana) 4. Monitoring with Promatheus and Grafana 5. Containerization with Docker  6. CI/CD Pipeline with GitHub Actions",
+      img: "/media/images/ecom.jpg",
+      tags: ["Node.js", "Express.js","Nginx", "MongoDB", "RabbitMQ", "Docker","Elasticsearch","Kibana","Logstash","Prometheus","Grafana"],
+      cta: "Visit site",
+      url: "https://github.com/Nazim777/microservices",
       left: false,
     }, 
 ];
