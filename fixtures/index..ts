@@ -58,7 +58,26 @@ export const myProjects = [
       cta: "Visit site",
       url: "https://github.com/Nazim777/microservices",
       left: false,
-    }, 
+    },
+    {
+  title: "Kinetic (AI-Powered Project Creation Platform)",
+  description: "Kinetic is inspired by bolt.new and lets users create, manage, and deploy full-stack projects directly in the browser. Built with Next.js, TypeScript, and Convex, it features real-time backend workspace management and secure Stripe-based payments.",
+  img: "/media/images/kinetic.png",
+  tags: ["Next.js", "TypeScript", "Convex", "Stripe", "ShadCN/UI", "Framer Motion"],
+  cta: "Visit site",
+  url: "https://kinetic-xi.vercel.app/",
+  left: false,
+},
+{
+  title: "ReelGenie (AI Short Video Generation Platform)",
+  description: "ReelGenie is an AI-powered platform that transforms scripts into short videos with automated rendering pipelines using GitHub Actions and Cloudinary. It integrates multiple AI services for script generation, voiceovers, captions, and final video composition, built with Next.js, Remotion, and Drizzle ORM.",
+  img: "/media/images/reelgenie.png",
+  tags: ["Next.js", "Remotion", "Drizzle ORM", "Stripe", "Gemini", "ElevenLabs", "AssemblyAI"],
+  cta: "Visit site",
+  url: "https://reel-genie-nine.vercel.app/",
+  left: false,
+},
+
 ];
 
 export const works = [
